@@ -14,5 +14,17 @@ public class Hello {
 			i++;
 			
 		}
+		int j=1;
+		while(j<=10)
+		{
+			if(j==7)
+			{
+				continue;
+				
+			}
+			System.out.println(j);
+			j++;
+			
+		}
 	}
 }
