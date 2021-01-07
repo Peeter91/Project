@@ -26,5 +26,7 @@ public class Hello {
 			j++;
 			
 		}
+		System.out.println("Git Check");
+		System.out.println("Git find");
 	}
 }
